@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function Home() {
+export default function picture() {
   return (
     <div>
-      Home
+      picture 
     </div>
   )
 }
+export default 
