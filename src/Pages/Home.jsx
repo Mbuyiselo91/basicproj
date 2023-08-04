@@ -1,10 +1,10 @@
 import React from 'react'
 
-const picture = () => {
+const main = () => {
   return (
     <div>
-      picture 
+      main
     </div>
   )
 }
-export default picture
+export default main
