@@ -1,10 +1,10 @@
 import React from 'react'
 
-export default function picture() {
+const picture = () => {
   return (
     <div>
       picture 
     </div>
   )
 }
-export default 
+export default picture
