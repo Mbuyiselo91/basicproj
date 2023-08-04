@@ -3,8 +3,8 @@ import React from 'react'
 const main = () => {
   return (
     <div>
-      main
-      wklnsdgnwe
+      command
+      
     </div>
   )
 }
